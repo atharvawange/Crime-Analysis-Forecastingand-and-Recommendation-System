@@ -8,10 +8,6 @@ EXP Means Experience
 1. Create a PPT (Ritik & Atharva)
 2. Presentation (Ritik & _____)
 3. Program
-    - Front-End (Preet)
-    - Back-End (Saksham)
-    - Data Analysis (Deepraj)
-    - Forecasting (Atharva)
 
 ## Dataset
 https://www.kaggle.com/datasets/rajanand/crime-in-india/data
@@ -23,7 +19,11 @@ https://www.kaggle.com/datasets/rajanand/crime-in-india/data
 - Forecasting -> Forcasted data in line chart and Map zone
 
 ## Technologies Used:-
-- HTML, CSS, React
+- Dash, Plotly
 - Flask
-- Pandas, Matplotlib, Seaborn
+- Pandas, NumPy, Matplotlib and Seaborn
 - Scikit-learn
+- GeoPandas
+- Folium
+- Dash Bootstrap Components
+- SQLAlchemy
