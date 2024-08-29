@@ -1,7 +1,8 @@
 # Crime-Analysis-and-Forecasting-System
 EXP Means Experience
-![Untitled328_20240829065152](https://github.com/user-attachments/assets/ab747280-ab0e-4288-a6de-1bd14669e065)
-![Untitled328_20240828202119](https://github.com/user-attachments/assets/969cde5d-17d5-4db3-9267-74fd7853c024)
+![Untitled328_20240828202119](https://github.com/user-attachments/assets/d3744888-ce5b-497a-912b-0704bb9acc38)
+![Untitled328_20240829065152](https://github.com/user-attachments/assets/418e000e-8444-49c8-8818-f774906a471d)
+
 
 ## Steps:-
 1. Create a PPT (Ritik & Atharva)
