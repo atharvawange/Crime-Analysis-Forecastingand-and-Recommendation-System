@@ -17,3 +17,9 @@ https://www.kaggle.com/datasets/rajanand/crime-in-india/data
 - Dashboard -> Show Crime Analysis in line chart and Map Zone (Interactive)
 - Form -> Insert FIR details for realtime analysis
 - Forecasting -> Forcasted data in line chart and Map zone
+
+## Technologies Used:-
+- HTML, CSS, React
+- Flask
+- Pandas, Matplotlib, Seaborn
+- Scikit-learn
