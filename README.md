@@ -1,11 +1,4 @@
-# Crime-Analysis-and-Forecasting-System
-Team Name :- EXP Means Experience
-
-
-
 # Crime Analysis, Forecasting, and Recommendation System for Law Enforcement
-
-![Project Logo](path_to_logo_image)
 
 ## Table of Contents
 1. [Introduction](#introduction)
