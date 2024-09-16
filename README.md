@@ -7,10 +7,9 @@
 4. [Project Structure](#project-structure)
 5. [Installation](#installation)
 6. [Usage](#usage)
-7. [API Endpoints](#api-endpoints)
-8. [Dataset](#dataset)
-9. [Visualization and Dashboard](#visualization-and-dashboard)
-10. [Contributors](#contributors)
+7. [Dataset](#dataset)
+8. [Visualization and Dashboard](#visualization-and-dashboard)
+9. [Contributors](#contributors)
 
 ---
 
@@ -105,11 +104,6 @@ Once the application is running, you can access the dashboard in your web browse
 - Visualize crime hotspots on the map.
 - Generate crime trend forecasts for specific regions.
 - Submit new crime reports using forms.
-## API Endpoints
-- GET / - Home/Dashboard page.
-- POST /upload - Upload crime dataset (CSV/Excel).
-- POST /predict - Submit a prediction request for crime forecasting.
-- GET /map - View crime hotspots on an interactive map.
 
 
 ## Dataset
@@ -124,9 +118,9 @@ The system supports crime datasets in CSV or Excel format. The dataset should co
 
 ## Visualization and Dashboard
 The interactive dashboard includes:
-- Crime Heatmaps: Visualize the density of crime occurrences in various locations.
-- Bar and Line Charts: Analyze crime data over time and compare crime types.
-- Prediction Charts: View future crime trends and hotspots.
+- **Crime Heatmaps:** Visualize the density of crime occurrences in various locations.
+- **Bar and Line Charts:** Analyze crime data over time and compare crime types.
+- **Prediction Charts:** View future crime trends and hotspots.
 
 ## Contributors
 - Atharva Wange - Machine Learning
