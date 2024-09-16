@@ -75,3 +75,70 @@ Crime-Analysis-System/
 ├── README.md                     # This readme file
 └── Dockerfile                    # Docker configuration
 ```
+
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/crime-analysis-system.git
+Navigate to the project directory:
+```
+```bash
+cd crime-analysis-system
+Create a virtual environment and activate it:
+```
+```bash
+python3 -m venv venv
+source venv/bin/activate  # For Windows: venv\Scripts\activate
+Install the required dependencies:
+```
+```bash
+pip install -r requirements.txt
+Set up the environment variables:
+```
+```bash
+export FLASK_APP=app
+export FLASK_ENV=development
+Run the Flask application:
+```
+```bash
+flask run
+```
+## Usage
+Once the application is running, you can access the dashboard in your web browser at http://localhost:5000.
+
+## Main Functionalities:
+Upload crime datasets in CSV/Excel format.
+Analyze historical crime patterns using interactive charts.
+Visualize crime hotspots on the map.
+Generate crime trend forecasts for specific regions.
+Submit new crime reports using forms.
+## API Endpoints
+GET / - Home/Dashboard page.
+POST /upload - Upload crime dataset (CSV/Excel).
+POST /predict - Submit a prediction request for crime forecasting.
+GET /map - View crime hotspots on an interactive map.
+
+
+## Dataset
+The system supports crime datasets in CSV or Excel format. The dataset should contain the following fields:
+
+FIR No.
+Date
+Time
+Crime Type
+Station Name
+City
+State
+
+## Visualization and Dashboard
+The interactive dashboard includes:
+
+Crime Heatmaps: Visualize the density of crime occurrences in various locations.
+Bar and Line Charts: Analyze crime data over time and compare crime types.
+Prediction Charts: View future crime trends and hotspots.
+
+## Contributors
+Atharva Wange - Backend, Machine Learning
+Deepraj - Frontend, UI Design
+Ritik - Data Analysis, Visualizations
+Preet - Geo-Spatial Mapping, Database Management
