@@ -1,7 +1,6 @@
 # Crime-Analysis-and-Forecasting-System
 EXP Means Experience
-![Untitled328_20240828202119](https://github.com/user-attachments/assets/d3744888-ce5b-497a-912b-0704bb9acc38)
-![Untitled328_20240829065152](https://github.com/user-attachments/assets/418e000e-8444-49c8-8818-f774906a471d)
+
 
 
 ## Steps:-
