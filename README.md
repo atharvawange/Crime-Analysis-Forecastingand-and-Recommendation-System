@@ -18,7 +18,6 @@ Team Name :- EXP Means Experience
 8. [Dataset](#dataset)
 9. [Visualization and Dashboard](#visualization-and-dashboard)
 10. [Contributors](#contributors)
-11. [License](#license)
 
 ---
 
@@ -38,7 +37,6 @@ This project was developed for **Smart India Hackathon (SIH)** 2024.
 
 ## Tech Stack
 - **Frontend**: 
-  - HTML5, CSS3, Bootstrap-Flask, JavaScript
   - Dash and Plotly for interactive graphs and visualizations
 - **Backend**: 
   - Python (Flask Framework)
