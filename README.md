@@ -100,38 +100,38 @@ flask run
 Once the application is running, you can access the dashboard in your web browser at http://localhost:5000.
 
 ## Main Functionalities:
-Upload crime datasets in CSV/Excel format.
-Analyze historical crime patterns using interactive charts.
-Visualize crime hotspots on the map.
-Generate crime trend forecasts for specific regions.
-Submit new crime reports using forms.
+- Upload crime datasets in CSV/Excel format.
+- Analyze historical crime patterns using interactive charts.
+- Visualize crime hotspots on the map.
+- Generate crime trend forecasts for specific regions.
+- Submit new crime reports using forms.
 ## API Endpoints
-GET / - Home/Dashboard page.
-POST /upload - Upload crime dataset (CSV/Excel).
-POST /predict - Submit a prediction request for crime forecasting.
-GET /map - View crime hotspots on an interactive map.
+- GET / - Home/Dashboard page.
+- POST /upload - Upload crime dataset (CSV/Excel).
+- POST /predict - Submit a prediction request for crime forecasting.
+- GET /map - View crime hotspots on an interactive map.
 
 
 ## Dataset
 The system supports crime datasets in CSV or Excel format. The dataset should contain the following fields:
-
-FIR No.
-Date
-Time
-Crime Type
-Station Name
-City
-State
+- FIR No.
+- Date
+- Time
+- Crime Type
+- Station Name
+- City
+- State
 
 ## Visualization and Dashboard
 The interactive dashboard includes:
-
-Crime Heatmaps: Visualize the density of crime occurrences in various locations.
-Bar and Line Charts: Analyze crime data over time and compare crime types.
-Prediction Charts: View future crime trends and hotspots.
+- Crime Heatmaps: Visualize the density of crime occurrences in various locations.
+- Bar and Line Charts: Analyze crime data over time and compare crime types.
+- Prediction Charts: View future crime trends and hotspots.
 
 ## Contributors
-Atharva Wange - Backend, Machine Learning
-Deepraj - Frontend, UI Design
-Ritik - Data Analysis, Visualizations
-Preet - Geo-Spatial Mapping, Database Management
+- Atharva Wange - Machine Learning
+- Deepraj Patel - UI Design
+- Ritik Sharma - Data Analysis, Visualizations
+- Preet Das - Geo-Spatial Mapping, Database Management
+- Saksham Dasaniya - Backend (Flask)
+- Divya Thanekar - Frontend (Dash &  Ploty)
