@@ -9,7 +9,6 @@
 6. [Usage](#usage)
 7. [Dataset](#dataset)
 8. [Visualization and Dashboard](#visualization-and-dashboard)
-9. [Contributors](#contributors)
 
 ---
 
@@ -17,6 +16,8 @@
 The **Crime Analysis, Forecasting, and Recommendation System for Law Enforcement** is a comprehensive tool designed to assist law enforcement agencies in analyzing historical crime data, predicting future crime hotspots, and providing actionable recommendations. The system leverages advanced data science techniques to enable proactive measures for crime prevention and resource allocation.
 
 This project was developed for **Smart India Hackathon (SIH)** 2024.
+
+Project YouTube Link - https://youtu.be/zs_Kzh0o3zQ
 
 ## Features
 - **Crime Data Analysis**: Perform in-depth analysis on crime statistics based on location, time, and type of crime.
@@ -121,11 +122,3 @@ The interactive dashboard includes:
 - **Crime Heatmaps:** Visualize the density of crime occurrences in various locations.
 - **Bar and Line Charts:** Analyze crime data over time and compare crime types.
 - **Prediction Charts:** View future crime trends and hotspots.
-
-## Contributors
-- Atharva Wange - Machine Learning
-- Deepraj Patel - UI Design
-- Ritik Sharma - Data Analysis, Visualizations
-- Preet Das - Geo-Spatial Mapping, Database Management
-- Saksham Dasaniya - Backend (Flask)
-- Divya Thanekar - Frontend (Dash &  Ploty)
